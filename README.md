@@ -8,8 +8,5 @@
 
 
 ## Habilidades
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=30A3DC) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![C](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
