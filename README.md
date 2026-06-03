@@ -8,5 +8,6 @@
 
 ## skills
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C++](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
