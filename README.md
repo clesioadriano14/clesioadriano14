@@ -1,12 +1,12 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </h1>
 
 ---
 
 Chamo-me **Clésio Adriano de Carvalho Filho**, tenho 24 anos e resido em São João Evangelista, Minas Gerais. Atualmente, frequento o Bacharelato em Sistemas de Informação no IFMG - Campus São João Evangelista. Sou um apaixonado por tecnologia e por utilizar a programação para construir soluções e resolver problemas reais.
 
-Utilizo o meu GitHub como um registo da minha evolução académica e profissional. Tenho um forte foco no desenvolvimento de software e sistemas, interligando linguagens de programação (C, C++, Java, Python e C#) com o desenvolvimento de projetos práticos e investigação académica (como inteligência artificial e processamento de imagens). Procuro sempre aliar a inovação tecnológica ao rigor científico.
+Utilizo o meu GitHub como um registo da minha evolução académica e profissional. Tenho um forte foco no desenvolvimento de software e sistemas, interligando linguagens de programação (C, C++, Java, Python e C#) com o desenvolvimento de projetos práticos e investigação académica. Procuro sempre aliar a inovação tecnológica ao rigor científico.
 
 ---
 
@@ -29,7 +29,7 @@ Utilizo o meu GitHub como um registo da minha evolução académica e profission
 ### 💻 Tecnologias
 
 <div align="left">
-  <!-- Ícones das linguagens que domina -->
+  <!-- Ícones das linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
@@ -56,10 +56,10 @@ Utilizo o meu GitHub como um registo da minha evolução académica e profission
 ### 📊 Linguagens e Estatísticas
 
 <div align="center">
-  <a href="https://github.com/SEU_USER_DO_GITHUB">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub de Clésio"/>
+  <a href="https://github.com/clesioadriano14">
+    <img src="https://github-readme-stats.vercel.app/api?username=clesioadriano14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub de Clésio"/>
   </a>
-  <a href="https://github.com/SEU_USER_DO_GITHUB">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais utilizadas"/>
+  <a href="https://github.com/clesioadriano14">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clesioadriano14&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais utilizadas"/>
   </a>
 </div>
