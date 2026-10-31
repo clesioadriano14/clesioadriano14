@@ -16,7 +16,7 @@ Utilizo o meu GitHub como um registo da minha evolução académica e profission
   <a href="mailto:clesioadriano14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/clesio-adriano/" target="_blank">
+  <a href="https://www.linkedin.com/in/clesio-adriano/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="http://lattes.cnpq.br/8505088870541201" target="_blank">
@@ -60,6 +60,6 @@ Utilizo o meu GitHub como um registo da minha evolução académica e profission
     <img src="https://github-readme-stats.vercel.app/api?username=clesioadriano14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub de Clésio"/>
   </a>
   <a href="https://github.com/clesioadriano14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clesioadriano14&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais utilizadas"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clesioadriano14&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais utilizadas"/>
   </a>
 </div>
