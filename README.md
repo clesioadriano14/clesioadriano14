@@ -4,9 +4,9 @@
 
 ---
 
-Chamo-me **Clésio Adriano de Carvalho Filho**, tenho 24 anos e resido em São João Evangelista, Minas Gerais. Atualmente, frequento o Bacharelato em Sistemas de Informação no IFMG - Campus São João Evangelista. Sou um apaixonado por tecnologia e por utilizar a programação para construir soluções e resolver problemas reais.
+Olá, me chamo **Clésio Adriano de Carvalho Filho**, tenho 24 anos e resido em São João Evangelista, Minas Gerais. Atualmente, estou cursando o 6° período em Sistemas de Informação no IFMG - Campus São João Evangelista.
 
-Utilizo o meu GitHub como um registo da minha evolução académica e profissional. Tenho um forte foco no desenvolvimento de software e sistemas, interligando linguagens de programação (C, C++, Java, Python e C#) com o desenvolvimento de projetos práticos e investigação académica. Procuro sempre aliar a inovação tecnológica ao rigor científico.
+Utilizo este GitHub para armazenar projetos e registrar minha evolução acadêmica e profissional. Tenho um forte foco no desenvolvimento de software e sistemas, interligando linguagens de programação (C, C++, Java, Python e C#) com o desenvolvimento de projetos práticos e investigação acadêmica.
 
 ---
 
@@ -53,7 +53,7 @@ Utilizo o meu GitHub como um registo da minha evolução académica e profission
 
 <br>
 
-### 📊 Linguagens e Estatísticas
+### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/clesioadriano14">
