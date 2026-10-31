@@ -1,14 +1,65 @@
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clesioadriano14&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+</h1>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=clesioadriano14&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-## Conecte-se 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/clesio-adriano/)
+Chamo-me **Clésio Adriano de Carvalho Filho**, tenho 24 anos e resido em São João Evangelista, Minas Gerais. Atualmente, frequento o Bacharelato em Sistemas de Informação no IFMG - Campus São João Evangelista. Sou um apaixonado por tecnologia e por utilizar a programação para construir soluções e resolver problemas reais.
 
-## skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+Utilizo o meu GitHub como um registo da minha evolução académica e profissional. Tenho um forte foco no desenvolvimento de software e sistemas, interligando linguagens de programação (C, C++, Java, Python e C#) com o desenvolvimento de projetos práticos e investigação académica (como inteligência artificial e processamento de imagens). Procuro sempre aliar a inovação tecnológica ao rigor científico.
+
+---
+
+### 🤝 Conecte-se comigo!
+
+<div align="left">
+  <a href="mailto:seu_email_aqui@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/seu_linkedin_aqui/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="http://lattes.cnpq.br/seu_lattes_aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LATTES-4A4A4A?style=for-the-badge&logo=curriculum-vitae&logoColor=white" alt="Lattes">
+  </a>
+</div>
+
+<br>
+
+### 💻 Tecnologias
+
+<div align="left">
+  <!-- Ícones das linguagens que domina -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="SQL / MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" title="LaTeX" />
+</div>
+
+<br>
+
+### 📊 Linguagens e Estatísticas
+
+<div align="center">
+  <a href="https://github.com/SEU_USER_DO_GITHUB">
+    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub de Clésio"/>
+  </a>
+  <a href="https://github.com/SEU_USER_DO_GITHUB">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais utilizadas"/>
+  </a>
+</div>
