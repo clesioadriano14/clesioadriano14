@@ -55,11 +55,13 @@ Utilizo o meu GitHub como um registo da minha evolução académica e profission
 
 ### 📊 Linguagens e Estatísticas
 
+### 📊 Linguagens e Estatísticas
+
 <div align="center">
   <a href="https://github.com/clesioadriano14">
-    <img src="https://github-readme-stats.vercel.app/api?username=clesioadriano14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub de Clésio"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=clesioadriano14&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" height="150" alt="Estatísticas do GitHub de Clésio"/>
   </a>
   <a href="https://github.com/clesioadriano14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clesioadriano14&layout=compact&theme=tokyonight" height="150" alt="Linguagens mais utilizadas"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clesioadriano14&amp;layout=compact&amp;theme=tokyonight" height="150" alt="Linguagens mais utilizadas"/>
   </a>
 </div>
