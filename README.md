@@ -13,13 +13,13 @@ Utilizo o meu GitHub como um registo da minha evolução académica e profission
 ### 🤝 Conecte-se comigo!
 
 <div align="left">
-  <a href="mailto:seu_email_aqui@gmail.com" target="_blank">
+  <a href="mailto:clesioadriano14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/seu_linkedin_aqui/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/clesio-adriano/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="http://lattes.cnpq.br/seu_lattes_aqui" target="_blank">
+  <a href="http://lattes.cnpq.br/8505088870541201" target="_blank">
     <img src="https://img.shields.io/badge/LATTES-4A4A4A?style=for-the-badge&logo=curriculum-vitae&logoColor=white" alt="Lattes">
   </a>
 </div>
