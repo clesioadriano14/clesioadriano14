@@ -27,143 +27,148 @@ Utilizo este GitHub para armazenar projetos e registrar minha evolução acadêm
 <br>
 
 💻 Tecnologias
+
 <div align="left">
 
 <!-- Linguagens de programação -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
+<img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+<img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" title="C#" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
 <img width="12" />
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
 <img width="12" />
 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP" />
 <img width="12" />
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby" />
+<img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby" title="Ruby" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go" />
+<img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" title="Rust" />
+<img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" title="Swift" />
+<img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" title="Swift" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin" />
+<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />
+<img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" title="Dart" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />
+<img src="https://skillicons.dev/icons?i=r" height="40" alt="R" title="R" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala" title="Scala" />
+<img src="https://skillicons.dev/icons?i=scala" height="40" alt="Scala" title="Scala" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="Perl" title="Perl" />
+<img src="https://skillicons.dev/icons?i=perl" height="40" alt="Perl" title="Perl" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" title="Lua" />
+<img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" title="Lua" />
+-->
 
 <!-- Desenvolvimento Web -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap" />
 <img width="12" />
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />
+<img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass" title="Sass" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular" />
+<img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" title="Angular" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
+<img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" title="Vue.js" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
+<img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery" title="jQuery" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" title="Vite" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite" />
+-->
 
 <!-- Bancos de dados -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" title="Microsoft SQL Server" />
+<!--
+<img src="https://skillicons.dev/icons?i=mssql" height="40" alt="SQL Server" title="Microsoft SQL Server" />
 
-<!-- Desenvolvimento Mobile 
+<!-- Desenvolvimento Mobile
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
+<img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" title="Flutter" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android" title="Android" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Apple" title="Apple" />
+<img src="https://skillicons.dev/icons?i=apple" height="40" alt="Apple" title="Apple" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" title="React Native" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" title="React Native" />
 -->
+
 <!-- Ferramentas e versionamento -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-<img width="12" />
-<!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" title="GitLab" />
-<img width="12" />
--->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
 <img width="12" />
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio" title="Visual Studio" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" title="GitLab" />
 <img width="12" />
 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="Visual Studio Code" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" title="Eclipse" />
+<!--
+<img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" title="Visual Studio" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" title="LaTeX" />
+-->
+<img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm" title="PyCharm" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse" title="Eclipse" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX" title="LaTeX" />
 
 <!-- DevOps, Containers e Cloud -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu" title="Ubuntu" />
+<img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" title="Ubuntu" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="Amazon Web Services" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="Amazon Web Services" />
 <img width="12" />
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Microsoft Azure" />
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Microsoft Azure" />
 <img width="12" />
 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud Platform" />
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud" title="Google Cloud Platform" />
 
 <!-- Data Science e Inteligência Artificial -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
+<img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy" title="NumPy" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
+<img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas" title="Pandas" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
+<img src="https://skillicons.dev/icons?i=matplotlib" height="40" alt="Matplotlib" title="Matplotlib" />
 <img width="12" />
 
 </div>
