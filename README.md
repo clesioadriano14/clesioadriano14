@@ -154,13 +154,15 @@ Utilizo este GitHub para armazenar projetos e registrar minha evolução acadêm
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" title="Ubuntu" />
 <img width="12" />
+<!--
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="Amazon Web Services" />
 <img width="12" />
-<!--
+
 <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Microsoft Azure" />
 <img width="12" />
--->
+
 <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud" title="Google Cloud Platform" />
+-->
 
 <!-- Data Science e Inteligência Artificial -->
 
